@@ -1,6 +1,6 @@
-<h1 align="right" >
+
 <img width="200" src="https://github.com/wrtinho/fibonacci-NodeJS/blob/master/src/fib.gif">
-</h1>
+
 
 # Fibonacci usando NodeJS
 
