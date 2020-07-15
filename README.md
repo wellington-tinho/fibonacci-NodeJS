@@ -22,7 +22,7 @@ Neste desafio foi aprendido:
 
 ## Resultado final
 
-Voce pode executar esse projeto, abrindo o terminal e inseriondo os seguintes comandos:
+Voce pode executar esse projeto, abrindo o terminal e inserindo os seguintes comandos:
 ```bash
   # make a clone of this repository
   git clone https://github.com/wrtinho/fibonacci-NodeJS.git
@@ -35,5 +35,12 @@ ou
 ```bash
     yarn install
 ```
+afim de instalar as dependencias do projeto.
+
+E então executar:
+```bash
+  node src/index.js 
+  ```
+Para obter a saida do Projeto.
 
 
