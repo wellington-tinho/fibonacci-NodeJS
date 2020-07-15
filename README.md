@@ -1,4 +1,5 @@
-<img align="center" width="100" src="https://github.com/wrtinho/fibonacci-NodeJS/fib.gif">
+<img align="center" width="100" src="https://github.com/wrtinho/fibonacci-NodeJS/blob/master/src/fib.gif">
+
 # Fibonacci usando NodeJS
 
 Este projeto que visa a construção de um método `fibonacci` que retorne um `Array` com os primeiro números de série de *Fibonacci* até passar de *350*.
@@ -24,7 +25,7 @@ Voce pode executar esse projeto, abrindo o terminal e inseriondo os seguintes co
   # make a clone of this repository
   git clone https://github.com/wrtinho/fibonacci-NodeJS.git
   ```
-Dentro da pasta com o [Node](https://nodejs.org/en/) instalado use:
+Dentro da pasta com o [Node](https://nodejs.org/en/) ou [Yarn](https://yarnpkg.com/) instalado use:
 ```bash
     npm install
 ```
@@ -32,5 +33,5 @@ ou
 ```bash
     yarn install
 ```
-Obviavemte com o [Yarn](https://yarnpkg.com/) instalado.
+
 
