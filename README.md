@@ -1,6 +1,7 @@
+<img align="center" width="100" src="https://github.com/wrtinho/fibonacci-NodeJS/fib.gif">
 # Fibonacci usando NodeJS
 
-Faça um método `fibonacci` que retorne um `Array` com os primeiro números de série de *Fibonacci* até passar de *350*.
+Este projeto que visa a construção de um método `fibonacci` que retorne um `Array` com os primeiro números de série de *Fibonacci* até passar de *350*.
 
 > A série de Fibonacci é a seguinte: 0, 1, 1, 2, 3, 5, 8, 13, etc...
 
@@ -9,19 +10,27 @@ Caso o número recebido por parâmetro esteja entre os números da sequência de
 
 ## Tópicos
 
-Neste desafio você aprenderá:
+Neste desafio foi aprendido:
 
 - Variáveis e métodos
 - Operadores matemáticos
 - Controle de fluxo
 - Listas
 
-## Requisitos
-​
-Para este desafio você precisará :
+## Resultado final
 
-- NodeJS LTS (8.12.0+)
+Voce pode executar esse projeto, abrindo o terminal e inseriondo os seguintes comandos:
+```bash
+  # make a clone of this repository
+  git clone https://github.com/wrtinho/fibonacci-NodeJS.git
+  ```
+Dentro da pasta com o [Node](https://nodejs.org/en/) instalado use:
+```bash
+    npm install
+```
+ou
+```bash
+    yarn install
+```
+Obviavemte com o [Yarn](https://yarnpkg.com/) instalado.
 
-Para instalar, confira os links na seção de conteúdo.
-
-Obs.: Tente usar o mínimo de bibliotecas possível 
