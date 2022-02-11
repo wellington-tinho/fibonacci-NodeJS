@@ -49,7 +49,7 @@
     "ms": "^2.0.0",
     "once": "^1.4.0",
     "path-is-absolute": "^1.0.1",
-    "pathval": "^1.1.0",
+    "pathval": "^1.1.1",
     "strip-ansi": "^4.0.0",
     "supports-color": "^5.4.0",
     "type-detect": "^4.0.8",
