@@ -43,7 +43,7 @@
     "inherits": "^2.0.4",
     "is-buffer": "^1.1.6",
     "md5": "^2.2.1",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.0.5",
     "minimist": "^1.2.3",
     "mkdirp": "^0.5.1",
     "ms": "^2.0.0",
