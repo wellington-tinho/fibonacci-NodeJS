@@ -19,7 +19,7 @@
     "test": "test"
   },
   "dependencies": {
-    "ansi-regex": "^3.0.0",
+    "ansi-regex": "^3.0.1",
     "assertion-error": "^1.1.0",
     "balanced-match": "^1.0.0",
     "brace-expansion": "^1.1.11",
