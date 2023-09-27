@@ -115,10 +115,10 @@ fs.realpath@^1.0.0:
   resolved "https://registry.yarnpkg.com/fs.realpath/-/fs.realpath-1.0.0.tgz#1504ad2523158caa40db4a2787cb01411994ea4f"
   integrity sha1-FQStJSMVjKpA20onh8sBQRmU6k8=
 
-get-func-name@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/get-func-name/-/get-func-name-2.0.0.tgz#ead774abee72e20409433a066366023dd6887a41"
-  integrity sha1-6td0q+5y4gQJQzoGY2YCPdaIekE=
+get-func-name@^2.0.0, get-func-name@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/get-func-name/-/get-func-name-2.0.1.tgz#4b85f334f7cf4eb2749e0274d1b75c8d2ea15093"
+  integrity sha512-xfVG6YAjJyJl5kJDV8qJYrI4entUcpszANQteCfPhU9AYOh6Za6Hw+SsTtTrhAB0yT0nk5P9TVNqBl58pHBlYQ==
 
 glob@7.1.2:
   version "7.1.2"

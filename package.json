@@ -34,7 +34,7 @@
     "diff": "^3.5.0",
     "escape-string-regexp": "^1.0.5",
     "fs.realpath": "^1.0.0",
-    "get-func-name": "^2.0.0",
+    "get-func-name": "^2.0.1",
     "glob": "^7.1.2",
     "growl": "^1.10.5",
     "has-flag": "^3.0.0",
